@@ -1,0 +1,3 @@
+[1]install library
+pip install psycopg2 -> library for connect to postgresql
+pip install pandas
